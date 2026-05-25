@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypecrypt",
+        "uuid": 294668,
+        "checksum": "cmqkv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
